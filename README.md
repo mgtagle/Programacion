@@ -1,4 +1,5 @@
-# Programacion
+# Programación
+
 ## Dr. Marco A. González Tagle y M.Sc. Olivia Sánchez
 La necesidad de predecir el crecimiento y la producción de los árboles y las masas forestales, 
 así como su respuesta a las prácticas silvícolas, ha sido uno de los objetivos fundamentales de la investigación forestal, 
