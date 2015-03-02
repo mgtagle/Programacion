@@ -1,6 +1,6 @@
 # Programación forestal
-
-## Dr. Marco A. González Tagle y M.Sc. Olivia Sánchez
+## Tesis desarrollada: Ing. Olivia Sánchez Hernández
+## Asesor Dr. Marco A. González Tagle 
 La necesidad de predecir el crecimiento y la producción de los árboles y las masas forestales, 
 así como su respuesta a las prácticas silvícolas, ha sido uno de los objetivos fundamentales de la investigación forestal, 
 ya que la clave para una correcta gestión radica en un profundo conocimiento de los procesos de desarrollo de las especies 
