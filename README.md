@@ -1,4 +1,4 @@
-# Programación
+# Programación forestal
 
 ## Dr. Marco A. González Tagle y M.Sc. Olivia Sánchez
 La necesidad de predecir el crecimiento y la producción de los árboles y las masas forestales, 
@@ -19,7 +19,7 @@ Los manejadores forestales se enfrentan a retos complejos, donde una toma de dec
 graves consecuencias a un alto precio. Estas decisiones generalmente se basan en información generada a lo largo del tiempo 
 dentro de la historia del manejo forestal del área. Pero en ocasiones no se cuenta con la información necesaria y se 
 requieren de otras herramientas para tomar las decisiones sobre el manejo (Rivera, 2012). Una de estas herramientas las 
-ofrece el software estadístico "R Project" que es de libre acceso y permite integrar una serie de variables y funciones 
+ofrece el software estadístico `R Project` que es de libre acceso y permite integrar una serie de variables y funciones 
 útiles para la modelación y simulación de las actividades realizadas en un bosque. 
 
 Para la industria forestal el desarrollo sostenible se ha convertido en una de las máximas prioridades. La regulación de los 
