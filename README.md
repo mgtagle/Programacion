@@ -19,15 +19,10 @@ Para la industria forestal el desarrollo sostenible se ha convertido en una de l
 Es la pauta para la planeación de la producción; en ésta se organiza y controla la masa forestal para obtener un rendimiento sostenido de las tierras forestales. La finalidad de la regulación es buscar el equilibrio entre el crecimiento y la producción del bosque.   
 
 Es tarea del manejador forestal encargado elaborar el programa de cortas que se ejecutarán en el terreno con base en 
-las consideraciones pertinentes sobre planeación silvícola y de extracción, así como en el ordenamiento de cada tipo de 
-rodal dentro del área forestal.     
+las consideraciones pertinentes sobre planeación silvícola y de extracción, así como en el ordenamiento de cada tipo de rodal dentro del área forestal.     
 
 Con el uso del paquete `GLPKAPI` (GNU Linear Programming Kit) el manejador podrá resolver problemas de programación lineal, programación integrada mixta y otros problemas relacionados en la planificación y optimización forestal (Makhorin, 2009). 
 
-En México las condiciones para el desarrollo forestal no han sido propicias. La carencia de una cultura forestal a nivel 
-nacional, ha dado como resultado el mal aprovechamiento de los recursos forestales. Sin embargo, haciendo uso de esta 
-cultura forestal local se pretende comprobar el uso y confiabilidad de herramientas estadísticas que permitan llevar el 
-manejo forestal sostenible de lo regional a lo nacional. Se parte del supuesto que la aplicación del software `R` como 
-herramienta de regulación de los bosques genera resultados biológicamente factibles que permiten tomar decisiones 
-estadísticamente fundamentadas para el manejo de los rodales. México cuenta con los recursos físicos y humanos 
-necesarios para convertir la actividad forestal en una alternativa de desarrollo preponderante.
+En México las condiciones para el desarrollo forestal no han sido propicias. La carencia de una cultura forestal a nivel nacional, ha dado como resultado el mal aprovechamiento de los recursos forestales. Sin embargo, haciendo uso de esta cultura forestal local se pretende comprobar el uso y confiabilidad de herramientas estadísticas que permitan llevar el manejo forestal sostenible de lo regional a lo nacional. Se parte del supuesto que la aplicación del software `R` como herramienta de regulación de los bosques genera resultados biológicamente factibles que permiten tomar decisiones estadísticamente fundamentadas para el manejo de los rodales. México cuenta con los recursos físicos y humanos necesarios para convertir la actividad forestal en una alternativa de desarrollo preponderante.
+
+## Referencias
