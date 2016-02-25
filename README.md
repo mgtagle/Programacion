@@ -25,4 +25,4 @@ Con el uso del paquete `GLPKAPI` (GNU Linear Programming Kit) el manejador podr�
 
 En México las condiciones para el desarrollo forestal no han sido propicias. La carencia de una cultura forestal a nivel nacional, ha dado como resultado el mal aprovechamiento de los recursos forestales. Sin embargo, haciendo uso de esta cultura forestal local se pretende comprobar el uso y confiabilidad de herramientas estadísticas que permitan llevar el manejo forestal sostenible de lo regional a lo nacional. Se parte del supuesto que la aplicación del software `R` como herramienta de regulación de los bosques genera resultados biológicamente factibles que permiten tomar decisiones estadísticamente fundamentadas para el manejo de los rodales. México cuenta con los recursos físicos y humanos necesarios para convertir la actividad forestal en una alternativa de desarrollo preponderante.
 
-## Referencias
+# Referencias
